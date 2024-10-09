@@ -30,4 +30,4 @@ def create_db_from_files():
     
     return db
 
-create_db_from_files("a.pdf")
+create_db_from_files()
